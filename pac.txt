@@ -2480,7 +2480,9 @@ var domains = {
   "medium.com": 1,
   "amazon.com": 1,
   "ntdtv.com": 1,
-  "docker.com": 1
+  "docker.com": 1,
+  "gitbook.com": 1,
+  "google.cn": 1
 };
 
 var proxy = "__PROXY__";
