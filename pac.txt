@@ -2483,7 +2483,8 @@ var domains = {
   "docker.com": 1,
   "gitbook.com": 1,
   "google.cn": 1,
-  "gitbooks.io": 1
+  "gitbooks.io": 1,
+  "laravel.com": 1
 };
 
 var proxy = "__PROXY__";
